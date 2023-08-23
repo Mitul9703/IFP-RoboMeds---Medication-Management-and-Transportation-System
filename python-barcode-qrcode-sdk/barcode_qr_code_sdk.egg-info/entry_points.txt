@@ -1,0 +1,2 @@
+[console_scripts]
+scanbarcode = barcodeQrSDK.scripts:scanbarcode
