@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "464283479341",
+    "project_id": "ifpcart",
+    "storage_bucket": "ifpcart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464283479341:android:c07c78d917021c69faf7a4",
+        "android_client_info": {
+          "package_name": "com.example.ifpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464283479341-a3rp5og60uqksflf2c3l9qtl8pp34812.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG5eUnqVoj_w49kIV2lezy4KE7EF27PTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464283479341-a3rp5og60uqksflf2c3l9qtl8pp34812.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
