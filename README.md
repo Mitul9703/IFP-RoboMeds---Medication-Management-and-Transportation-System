@@ -16,6 +16,12 @@ RoboMeds is an innovative medication management system designed to assist elderl
 - **Streamlined Medication Tracking:** User-friendly app interface simplifies scheduling.
 - **Safe Medication Handling:** Robotics and QR codes eliminate manual handling risks.
 
+## How it Works 
+
+![image](https://github.com/Mitul9703/IFP-RoboMeds---Medication-Management-and-Transportation-System/assets/60043776/75f382a7-87d7-4139-afd1-11149b957ee1)
+
+
+
 ## Demo Videos
 
 [RoboMeds in Action - 1D Movement]([video_link_1]()) - Watch how RoboMeds navigates in 1D to retrieve medications.
