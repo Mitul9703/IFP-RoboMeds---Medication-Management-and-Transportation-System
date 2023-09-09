@@ -18,7 +18,9 @@ RoboMeds is an innovative medication management system designed to assist elderl
 
 ## Demo Videos
 
-[RoboMeds in Action - 1D Movement]([video_link_1](https://github.com/Mitul9703/IFP-Product-Shipping-Automation/assets/60043776/9b984331-0618-4328-b796-17146514df27)) - Watch how RoboMeds navigates in 1D to retrieve medications.
+[RoboMeds in Action - 1D Movement]([video_link_1]()) - Watch how RoboMeds navigates in 1D to retrieve medications.
+
+https://github.com/Mitul9703/IFP-Product-Shipping-Automation/assets/60043776/9b984331-0618-4328-b796-17146514df27
    
 ## Mobile App Screens
 
