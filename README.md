@@ -18,6 +18,10 @@ RoboMeds is an innovative medication management system designed to assist elderl
 
 ## How it Works 
 
+
+<img width="2008" alt="Untitled" src="https://github.com/Mitul9703/IFP-RoboMeds---Medication-Management-and-Transportation-System/assets/60043776/f8ebf7d9-cf36-4204-a951-f8f3edadc2fc">
+
+
 ![image](https://github.com/Mitul9703/IFP-RoboMeds---Medication-Management-and-Transportation-System/assets/60043776/75f382a7-87d7-4139-afd1-11149b957ee1)
 
 
